@@ -1,0 +1,9 @@
+# Minimal requirements - let pip resolve dependencies
+# This approach often works better on Streamlit Cloud
+
+streamlit>=1.28.0,<1.30.0
+google-api-python-client>=2.100.0
+google-generativeai>=0.3.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
